@@ -1,0 +1,11 @@
+{
+  "name": "memory-profiler",
+  "version": "1.0.0",
+  "description": "A small utility to help finding memory leaks",
+  "main": "dist/memory-profiler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "flamewise",
+  "license": "ISC"
+}
